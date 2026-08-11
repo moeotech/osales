@@ -1,0 +1,11 @@
+{
+  "name": "OSales - AI Sales OS",
+  "description": "Multi-tenant SaaS Sales Force Automation and Field Management platform. Features CRM, Distribution, Merchandising, AI insights, and an offline-first mobile web app for representatives.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
